@@ -342,6 +342,11 @@ figure {
           @media screen and (max-width: 768px) {
             #colorlib-hero .flexslider .slider-text > .slider-text-inner .btn {
               width: 100%; } }
+              
+.counter-number{
+  color: rgba(44, 152, 240, 0.8);
+}
+
 
 body.offcanvas {
   overflow-x: hidden; }
